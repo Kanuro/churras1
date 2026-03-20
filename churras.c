@@ -23,6 +23,14 @@ int main()
 
       frango = (homem * 800) + (mulher * 600) + (kid * 300);
       frango = frango/1000;
+    
+     picanha = (homem * 900) + (mulher * 750) + (kid * 500);
+      picanha = picanha/1000;
+
+     printf("\nquantidade de picanha: %.2f,kg", picanha);
+     
+      queijo = (homem * 500) + (mulher * 300) + (kid * 400);
+      queijo = queijo/1000;
 
      printf("quantidade de frango: %.2f,kg", frango);
 
