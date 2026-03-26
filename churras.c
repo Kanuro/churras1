@@ -42,6 +42,30 @@ int main()
 
      printf("n\nquantidade de costela: %.2f,kg", costela);
      
+refrigerante = (homem * 1) + (mulher * 0.5) + (kid * 2);
+       refrigerante = refrigerante/1;
+       printf("n\nquantidade de refrigerante: %.2f,garrafas", refrigerante);
+       
+       cerveja= (homem * 6) + (mulher * 6) + (kid * 0);
+       cerveja = cerveja/1;
+         printf("n\nquantidade de cerveja: %.2f,latas", cerveja);
+       
+       linguica = (homem * 800) + (mulher * 700) + (kid * 550);
+       linguica = linguica/1000;
+       printf("n\nquantidade de linguica: %.2f,kg", linguica);
+       
+       paodealho = (homem * 2) + (mulher * 2) + (kid * 3);
+       paodealho = paodealho/1;
+      printf("n\nquantidade de paodealho: %.2f,pacotes", paodealho);
+       
+       tilapia= (homem * 400) + (mulher * 300) + (kid * 250);
+       tilapia= tilapia/1000;
+        printf("n\nquantidade de tilapia: %.2f,kg", tilapia);
+       
+      cupim = (homem * 800) + (mulher * 600) + (kid * 400);
+       cupim = cupim/1000;
+       printf("n\nquantidade de cupim: %.2f,kg", cupim);
+       
 
 
 
